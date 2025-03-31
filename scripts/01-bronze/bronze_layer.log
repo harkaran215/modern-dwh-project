@@ -1,0 +1,25 @@
+2025-03-21 22:33:10 - INFO - Logging system initialized.
+2025-03-21 22:33:12 - INFO - Starting Spark session
+2025-03-21 22:33:12 - INFO - Spark session created
+2025-03-21 22:33:21 - INFO - reading data
+2025-03-21 22:33:22 - INFO - Writing data started for file customers
+2025-03-21 22:33:26 - INFO - File name:customers, no of rows: 1643306
+2025-03-21 22:33:26 - INFO - Output Path = hdfs://0.0.0.0:19000/bronze_layer/global_fashion_sales/customers/
+2025-03-21 22:33:26 - INFO - Writing data started for file discounts
+2025-03-21 22:33:26 - INFO - File name:discounts, no of rows: 181
+2025-03-21 22:33:26 - INFO - Output Path = hdfs://0.0.0.0:19000/bronze_layer/global_fashion_sales/discounts/
+2025-03-21 22:33:27 - INFO - Writing data started for file employees
+2025-03-21 22:33:27 - INFO - File name:employees, no of rows: 404
+2025-03-21 22:33:27 - INFO - Output Path = hdfs://0.0.0.0:19000/bronze_layer/global_fashion_sales/employees/
+2025-03-21 22:33:27 - INFO - Writing data started for file products
+2025-03-21 22:33:27 - INFO - File name:products, no of rows: 17940
+2025-03-21 22:33:27 - INFO - Output Path = hdfs://0.0.0.0:19000/bronze_layer/global_fashion_sales/products/
+2025-03-21 22:33:27 - INFO - Writing data started for file stores
+2025-03-21 22:33:27 - INFO - File name:stores, no of rows: 35
+2025-03-21 22:33:27 - INFO - Output Path = hdfs://0.0.0.0:19000/bronze_layer/global_fashion_sales/stores/
+2025-03-21 22:33:28 - INFO - Writing data started for file transactions
+2025-03-21 22:33:49 - INFO - File name:transactions, no of rows: 6416827
+2025-03-21 22:33:49 - INFO - Output Path = hdfs://0.0.0.0:19000/bronze_layer/global_fashion_sales/transactions/
+2025-03-21 22:33:49 - INFO - Writing data completed
+2025-03-21 22:33:56 - INFO - stoping spark
+2025-03-21 22:33:57 - INFO - job completed
