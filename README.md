@@ -1,4 +1,4 @@
-# Modern Datawarehouse project
+# Modern Data Warehouse Project
 
 Welcome to the Modern data warehosue project.
 
