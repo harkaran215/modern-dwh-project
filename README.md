@@ -1,6 +1,6 @@
 # Modern Data Warehouse Project
 
-Welcome to the Modern data warehosue project.
+Welcome to the Modern Data Warehouse project.
 
 This Project implements a data solution architecture using big data technology to build a business ready data warehouse which can be used for business use cases.
 ___
