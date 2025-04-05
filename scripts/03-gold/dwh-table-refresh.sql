@@ -148,6 +148,14 @@ DO UPDATE SET
     payment_method = EXCLUDED.payment_method,
     invoice_total = EXCLUDED.invoice_total,
     date_id = EXCLUDED.date_id;
+
+drop table stage.t_gfs_customers;
+drop table stage.t_gfs_discounts;
+drop table stage.t_gfs_employees;
+drop table stage.t_gfs_products;
+drop table stage.t_gfs_stores;
+drop table stage.t_gfs_transactions;
+
 commit;
 
 
