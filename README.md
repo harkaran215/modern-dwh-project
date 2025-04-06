@@ -8,6 +8,8 @@ ___
 
 This solution is based on the medallion architecture which consist of three layers bronzen, silver and gold.
 
+Link to Youtube video - ![Click Here](https://www.youtube.com/watch?v=ng8SAT6TydU)
+
 ![Alt text](https://github.com/harkaran215/mordern-dwh-project/blob/main/docs/Data-architecture.PNG)
 
 - Bronze Layer: In this layer we get raw data from source in hdfs in a csv format.
@@ -15,13 +17,13 @@ This solution is based on the medallion architecture which consist of three laye
 - Gold Layer: In this layer standardized data is moved from Silver layer into a data warehosue. This data now ready for any bussiness use case.
 ___
 # Links or Tool used in the project
-- Dataset: link for Dataset
-- Apache Hadoop: used for storing data on hdfs
-- Apache Hive: used for storing data on hive
-- Apache Spark: used for processing big Data
-- Postgresql: used to create Data warehosue
-- DbDiagram: used to create Data Model
-- Google Sildes: used to create Architecture diagram
+- ![Dataset](https://www.kaggle.com/code/mahmoudredagamail/global-fashion-retail-sales): link for Dataset
+- ![Apache Hadoop](https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html): used for storing data on hdfs
+- ![Apache Hive](https://hive.apache.org/): used for storing data on hive
+- ![Apache Spark](https://archive.apache.org/dist/spark/docs/3.3.0/): used for processing big Data
+- ![Postgresql](https://www.postgresql.org/docs/current/intro-whatis.html): used to create Data warehouse
+- ![DbDiagram](https://dbdiagram.io/): used to create Data Model
+- ![Google Sildes](https://workspace.google.com/products/slides/): used to create Architecture diagram
 ___
 # Project Overview
 This project involves:
